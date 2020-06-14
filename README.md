@@ -57,3 +57,11 @@ Wyjście
 2
 
 -----------------------------------------------------
+
+## Hexadecimal Encryption
+
+Added other [repository](https://github.com/sawickicezary/HexadecimalEncryption) for it.
+
+## Game of Amazons
+
+Added other [repository](https://github.com/sawickicezary/GameOfAmazon) for it. 
