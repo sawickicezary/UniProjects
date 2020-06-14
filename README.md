@@ -2,7 +2,7 @@
 Projects based on tasks given from University
 
 
-##Sekta
+## Sekta
 
 Znaleźliście się w nieodpowiednim miejscu i w nieodpowiednim czasie. Wśród n (np. n=20) 
 osób (numerujemy od 1) wszyscy oprócz Ciebie chcą popełnić samobójstwo (niestety nie masz czasu na agitację). 
